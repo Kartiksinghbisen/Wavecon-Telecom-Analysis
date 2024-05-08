@@ -27,6 +27,8 @@
 4. **Total Active Users**: Total Active Users refers to the total number of users who are actively using a product or service within a specified period. In the context of a telecommunications company, it could represent the total number of customers who are actively using their mobile phone plans, internet services, or other offerings.
 
 ## Our Dashboard 
+![Screenshot 2024-04-08 154808](https://github.com/Kartiksinghbisen/Wavecon-Telecom-Analysis/assets/139736045/479908a3-87b8-431b-b255-b859242a3775)
+
 
 
 You can view Interactive live Dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiYjE2ZmU3MzYtMDYzYy00NmFmLTg3Y2ItYzM2NjdjMjRiYTk5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
@@ -37,14 +39,25 @@ You can view Video Presentation [here](https://www.linkedin.com/posts/kartik-sin
 
 *  What is the impact of the 5G launch on our revenue?
 
+![Screenshot 2024-05-08 151311](https://github.com/Kartiksinghbisen/Wavecon-Telecom-Analysis/assets/139736045/6ce792ea-c70d-4c91-95eb-bc5a92bb6030)
 
 * Which KPI is underperforming after the 5G launch?
+![Screenshot 2024-05-08 151527](https://github.com/Kartiksinghbisen/Wavecon-Telecom-Analysis/assets/139736045/d11c2076-2f9e-4892-927e-4656587b77fb)
+![Screenshot 2024-05-08 151553](https://github.com/Kartiksinghbisen/Wavecon-Telecom-Analysis/assets/139736045/b839e6f7-e7ba-4638-ad1c-81ef5d3c9ac2)
+
 
 
 * After the 5G launch, which plans are performing well in terms of revenue? Which plans are not performing well?
 
+![Screenshot 2024-05-08 151613](https://github.com/Kartiksinghbisen/Wavecon-Telecom-Analysis/assets/139736045/990837b8-28f4-4300-b091-5f230a2ced39)
 
-* Is there any plan affected largely by the 5G launch? Should we continue or discontinue that plan?
 
 
 * Is there any plan that is discontinued after the 5G launch? What is the reason for it?
+![Screenshot 2024-05-08 151629](https://github.com/Kartiksinghbisen/Wavecon-Telecom-Analysis/assets/139736045/70bcddc6-184d-4855-8982-14d820037231)
+
+* Is there any plan affected largely by the 5G launch? Should we continue or discontinue that plan?
+
+![Screenshot 2024-05-08 151643](https://github.com/Kartiksinghbisen/Wavecon-Telecom-Analysis/assets/139736045/1c3c9c62-f00d-4d95-ba69-10694768f1d4)
+
+![Screenshot 2024-05-08 151701](https://github.com/Kartiksinghbisen/Wavecon-Telecom-Analysis/assets/139736045/ff239a70-9aaf-4b32-af11-6d36177c9615)
