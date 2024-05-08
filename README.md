@@ -31,10 +31,10 @@
 
 
 
-**You can view Interactive live Dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiYjE2ZmU3MzYtMDYzYy00NmFmLTg3Y2ItYzM2NjdjMjRiYTk5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
+**You can view the Interactive live Dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiYjE2ZmU3MzYtMDYzYy00NmFmLTg3Y2ItYzM2NjdjMjRiYTk5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
 
- **You can view Video Presentation [here]**(https://www.linkedin.com/posts/kartik-singh-bisen-545173278_codebasicsvirtualinternship-videopresentation-activity-7183786190750334976-c842?utm_source=share&utm_medium=member_desktop)
-
+ **You can view Video Presentation [here](https://www.linkedin.com/posts/kartik-singh-bisen-545173278_codebasicsvirtualinternship-videopresentation-activity-7183786190750334976-c842?utm_source=share&utm_medium=member_desktop)**
+ 
 ## Goals
 
 *  What is the impact of the 5G launch on our revenue?
